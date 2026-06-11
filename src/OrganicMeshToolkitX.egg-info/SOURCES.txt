@@ -28,12 +28,12 @@ src/omtx/math/line_segment.py
 src/omtx/math/plane.py
 src/omtx/math/ray.py
 src/omtx/math/vector3.py
+src/omtx/mesh/__init__.py
+src/omtx/mesh/analyzer.py
 src/omtx/presets/__init__.py
 src/omtx/spatial/__init__.py
 src/omtx/spatial/kdtree.py
 src/omtx/utils/__init__.py
-src/organic_mesh_toolkit_x/mesh/__init__.py
-src/organic_mesh_toolkit_x/mesh/analyzer.py
 tests/test_geometry_core.py
 tests/test_halfedge.py
 tests/test_import.py

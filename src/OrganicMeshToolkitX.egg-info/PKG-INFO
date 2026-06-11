@@ -5,6 +5,6 @@ Summary: Organic Mesh Toolkit X
 Requires-Python: >=3.11
 Provides-Extra: dev
 Requires-Dist: black>=24.0; extra == "dev"
-Requires-Dist: ruff>=0.6; extra == "dev"
+Requires-Dist: ruff==0.15.17; extra == "dev"
 Requires-Dist: mypy>=1.10; extra == "dev"
 Requires-Dist: pytest>=8.0; extra == "dev"
