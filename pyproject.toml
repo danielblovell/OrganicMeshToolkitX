@@ -8,6 +8,14 @@ version = "0.0.1a1"
 description = "Organic Mesh Toolkit X"
 requires-python = ">=3.11"
 
+[project.optional-dependencies]
+dev = [
+    "black>=24.0",
+    "ruff>=0.6",
+    "mypy>=1.10",
+    "pytest>=8.0",
+]
+
 [tool.black]
 line-length = 100
 target-version = ["py311"]
